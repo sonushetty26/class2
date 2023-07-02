@@ -13,13 +13,13 @@ function App(props){
     <div>
       <h1>States in React</h1>
       <hr/>
-      {/*<Ex1/>
-         <Ex2/>
-         <Ex3/>
-         <Ex4/>
+          <Ex1/>
+          <Ex2/>
+          <Ex3/>
+          <Ex4/>
           <Ex5/>
           <Ex6/>
-  <Ex7/>*/}
+          <Ex7/>
           <Ex8/>
     </div>
   )

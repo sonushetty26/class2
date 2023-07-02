@@ -29,7 +29,7 @@ const RegisterForm = (props)=>{
         <div className="form">
         <form>
             <fieldset>
-                <legend>Login Form</legend>
+                <legend>Register Form</legend>
             <div className="row">
                 <label htmlFor="user">UserName</label>
                 <input type="text" name="user" id="user" required/>
